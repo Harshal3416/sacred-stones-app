@@ -19,6 +19,7 @@ export default defineConfig({
         ]
       : []),
   ],
+  base: "/sacred-stones-app",
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),
