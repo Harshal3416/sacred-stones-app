@@ -1,0 +1,324 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Amethyst Crystal",
+      "shortDescription": "Purple healing stone for spiritual awareness and inner peace",
+      "description": "Amethyst is a powerful and protective stone that helps to relieve stress and strain, soothes irritability, balances mood swings, and dispels anger, rage, fear and anxiety. It activates spiritual awareness, opens intuition and enhances psychic abilities.",
+      "price": "24.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Amethyst_crystal_product_d42c154f.png",
+      "benefits": [
+        "Enhances spiritual awareness",
+        "Promotes emotional balance",
+        "Aids in meditation and intuition",
+        "Relieves stress and anxiety"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "2",
+      "title": "Rose Quartz Heart",
+      "shortDescription": "Heart-shaped love stone for emotional healing and relationships",
+      "description": "Rose Quartz is the stone of universal love. It restores trust and harmony in relationships, encouraging unconditional love. Rose Quartz purifies and opens the heart at all levels to promote love, self-love, friendship, deep inner healing and feelings of peace.",
+      "price": "19.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Rose_quartz_heart_deb40789.png",
+      "benefits": [
+        "Attracts love and compassion",
+        "Heals emotional wounds",
+        "Promotes self-love and acceptance",
+        "Strengthens relationships"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "3",
+      "title": "Chakra Bracelet",
+      "shortDescription": "Seven chakra stones bracelet for energy balance",
+      "description": "This beautiful chakra bracelet features seven gemstones representing each of the body's energy centers. Wear it to align and balance your chakras, promoting overall wellness, spiritual growth, and harmony in your daily life.",
+      "price": "34.99",
+      "category": "Bracelets",
+      "image": "/assets/generated_images/Chakra_bracelet_product_1a0c08b7.png",
+      "benefits": [
+        "Balances all seven chakras",
+        "Promotes energy flow",
+        "Enhances spiritual awareness",
+        "Beautiful daily reminder"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "4",
+      "title": "Mystical Tarot Deck",
+      "shortDescription": "78-card tarot deck with detailed guidebook",
+      "description": "Unlock the secrets of the universe with this beautifully illustrated tarot deck. Complete with 78 cards and a comprehensive guidebook, this deck is perfect for both beginners and experienced readers seeking divine guidance.",
+      "price": "39.99",
+      "category": "Tarot",
+      "image": "/assets/generated_images/Tarot_deck_product_f5633eee.png",
+      "benefits": [
+        "Provides spiritual guidance",
+        "Enhances intuition",
+        "Includes detailed guidebook",
+        "Beautiful artwork"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "5",
+      "title": "Nazar Evil Eye Amulet",
+      "shortDescription": "Traditional Turkish protection stone against negative energy",
+      "description": "The Nazar, or evil eye, is a powerful protective amulet used for centuries to ward off negative energy and harmful intentions. Handcrafted in Turkey, this authentic piece provides spiritual protection and brings good fortune.",
+      "price": "16.99",
+      "category": "Amulets",
+      "image": "/assets/generated_images/Nazar_evil_eye_fd63a562.png",
+      "benefits": [
+        "Protects from negative energy",
+        "Brings good fortune",
+        "Authentic Turkish craftsmanship",
+        "Powerful spiritual shield"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "6",
+      "title": "Clear Quartz Crystal",
+      "shortDescription": "Master healing crystal for amplifying energy and intentions",
+      "description": "Clear Quartz is known as the 'master healer' and will amplify energy and thought, as well as the effect of other crystals. It absorbs, stores, releases and regulates energy. Clear Quartz draws off negative energy of all kinds.",
+      "price": "22.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Clear_quartz_crystal_a26c2f71.png",
+      "benefits": [
+        "Amplifies intentions and energy",
+        "Master healing stone",
+        "Enhances clarity and focus",
+        "Works with all chakras"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "7",
+      "title": "Black Tourmaline",
+      "shortDescription": "Powerful protective stone against negative energies",
+      "description": "Black Tourmaline is a powerful grounding stone that provides a connection between Earth and the human spirit. It is one of the most popular metaphysical stones for protection and the elimination of negative energy.",
+      "price": "27.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Black_tourmaline_stone_9fb6e035.png",
+      "benefits": [
+        "Provides powerful protection",
+        "Grounds spiritual energy",
+        "Shields from EMF radiation",
+        "Transmutes negative energy"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "8",
+      "title": "Citrine Crystal",
+      "shortDescription": "Golden prosperity stone for abundance and success",
+      "description": "Citrine is a powerful cleanser and regenerator. It carries the power of the sun and is an exceptionally beneficial stone. It is warming, energizing, and highly creative, and never needs cleansing. Citrine attracts wealth, prosperity, and success.",
+      "price": "29.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Citrine_crystal_product_445c7491.png",
+      "benefits": [
+        "Attracts abundance and prosperity",
+        "Enhances creativity and motivation",
+        "Self-cleansing crystal",
+        "Promotes joy and optimism"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "9",
+      "title": "Selenite Wand",
+      "shortDescription": "Cleansing crystal wand for energy clearing",
+      "description": "Selenite is a calming stone that instills deep peace and is excellent for meditation or spiritual work. It assists judgement and insight, clears confusion, and aids in seeing the deeper picture. Selenite aligns the spinal column and promotes flexibility.",
+      "price": "32.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Selenite_wand_product_9ff60b7d.png",
+      "benefits": [
+        "Cleanses other crystals",
+        "Promotes mental clarity",
+        "Excellent for meditation",
+        "Creates peaceful energy"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "10",
+      "title": "Lapis Lazuli",
+      "shortDescription": "Deep blue stone of wisdom and truth",
+      "description": "Lapis Lazuli is one of the most sought-after stones in use since man's history began. Its deep, celestial blue remains the symbol of royalty and honor, gods and power, spirit and vision. It is a universal symbol of wisdom and truth.",
+      "price": "36.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Lapis_lazuli_stone_20033311.png",
+      "benefits": [
+        "Enhances intellectual ability",
+        "Promotes wisdom and truth",
+        "Activates third eye chakra",
+        "Encourages self-awareness"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "11",
+      "title": "Green Aventurine",
+      "shortDescription": "Lucky prosperity stone for manifesting abundance",
+      "description": "Green Aventurine is known as the 'Stone of Opportunity,' thought to be the luckiest of all crystals, especially in manifesting prosperity and wealth. It releases old patterns and habits so new growth can take place.",
+      "price": "18.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Green_aventurine_crystal_90b28413.png",
+      "benefits": [
+        "Attracts luck and opportunity",
+        "Manifests prosperity",
+        "Promotes emotional calm",
+        "Supports heart chakra healing"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "12",
+      "title": "Carnelian Stone",
+      "shortDescription": "Vibrant orange crystal for courage and motivation",
+      "description": "Carnelian is a stabilizing stone that restores vitality and motivation, and stimulates creativity. It gives courage, promotes positive life choices, dispels apathy, and motivates for success in business and other matters.",
+      "price": "21.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Carnelian_crystal_stone_3fce4e18.png",
+      "benefits": [
+        "Boosts vitality and energy",
+        "Stimulates creativity",
+        "Promotes courage and confidence",
+        "Enhances motivation"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "13",
+      "title": "Evil Eye Wall Hanging",
+      "shortDescription": "Decorative protection charm for home and office",
+      "description": "This beautiful evil eye wall hanging combines traditional protection with elegant design. Perfect for your home or office, it serves as both a spiritual shield and a stunning piece of decor, warding off negative energies.",
+      "price": "28.99",
+      "category": "Amulets",
+      "image": "/assets/generated_images/Evil_eye_wall_hanging_57e66c21.png",
+      "benefits": [
+        "Protects your space",
+        "Beautiful home decor",
+        "Wards off negativity",
+        "Handcrafted with care"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "14",
+      "title": "Om Meditation Bracelet",
+      "shortDescription": "Sacred Om symbol bracelet with rudraksha beads",
+      "description": "This sacred bracelet features authentic rudraksha beads and the powerful Om symbol. Rudraksha beads are known for their spiritual significance in meditation and yoga practices, promoting inner peace and spiritual growth.",
+      "price": "31.99",
+      "category": "Bracelets",
+      "image": "/assets/generated_images/Om_meditation_bracelet_b91bd5e2.png",
+      "benefits": [
+        "Enhances meditation practice",
+        "Promotes spiritual growth",
+        "Sacred rudraksha beads",
+        "Powerful Om energy"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "15",
+      "title": "Tiger Eye Bracelet",
+      "shortDescription": "Golden brown protection bracelet for courage and strength",
+      "description": "Tiger Eye is a powerful stone that helps you to release fear and anxiety and aids harmony and balance. It stimulates taking action, and helps you to make decisions with discernment and understanding.",
+      "price": "26.99",
+      "category": "Bracelets",
+      "image": "/assets/generated_images/Tiger_eye_bracelet_be71eecf.png",
+      "benefits": [
+        "Provides protection",
+        "Enhances confidence",
+        "Promotes mental clarity",
+        "Grounds and centers energy"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "16",
+      "title": "Crystal Pendulum",
+      "shortDescription": "Divination tool for spiritual guidance and answers",
+      "description": "This beautiful crystal pendulum is a powerful tool for divination and accessing your inner wisdom. Use it for yes/no questions, energy work, chakra balancing, or finding lost objects. Each pendulum is unique and charged with positive energy.",
+      "price": "23.99",
+      "category": "Tools",
+      "image": "/assets/generated_images/Crystal_pendulum_tool_1b2e448f.png",
+      "benefits": [
+        "Aids in decision making",
+        "Enhances intuition",
+        "Used for energy work",
+        "Helps find answers within"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "17",
+      "title": "White Sage Smudge Stick",
+      "shortDescription": "Sacred cleansing herb for energy purification",
+      "description": "White Sage has been used for centuries in cleansing rituals and ceremonies. Burning sage, also known as smudging, is an ancient spiritual ritual used to clear negative energy and restore balance to spaces and individuals.",
+      "price": "14.99",
+      "category": "Tools",
+      "image": "/assets/generated_images/Sage_smudge_stick_6853a894.png",
+      "benefits": [
+        "Cleanses negative energy",
+        "Purifies spaces",
+        "Traditional spiritual practice",
+        "Natural and organic"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "18",
+      "title": "Red Jasper",
+      "shortDescription": "Grounding stone for stability and strength",
+      "description": "Red Jasper is a stone of empowerment, bringing strength to resist emotional domination by others, and the courage to speak out. It imparts determination to all pursuits and the ability to achieve one's goals.",
+      "price": "19.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Red_jasper_crystal_f1dcdc82.png",
+      "benefits": [
+        "Provides grounding energy",
+        "Enhances stamina and strength",
+        "Promotes emotional stability",
+        "Supports root chakra"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "19",
+      "title": "Moonstone Crystal",
+      "shortDescription": "Iridescent stone for intuition and divine feminine energy",
+      "description": "Moonstone is a stone of inner growth and strength. It soothes emotional instability and stress, and stabilizes the emotions, providing calmness. Moonstone enhances intuition, promotes inspiration, and brings success and good fortune in love and business.",
+      "price": "33.99",
+      "category": "Crystals",
+      "image": "/assets/generated_images/Moonstone_crystal_gem_854029f9.png",
+      "benefits": [
+        "Enhances intuition",
+        "Balances emotions",
+        "Connects to lunar energy",
+        "Supports new beginnings"
+      ],
+      "inStock": 1
+    },
+    {
+      "id": "20",
+      "title": "Mala Prayer Beads",
+      "shortDescription": "108 meditation beads for mantra practice",
+      "description": "Traditional mala beads for meditation and prayer, featuring 108 hand-knotted beads with a guru bead and tassel. Use these sacred beads to count mantras, set intentions, or deepen your meditation practice.",
+      "price": "42.99",
+      "category": "Tools",
+      "image": "/assets/generated_images/Mala_prayer_beads_5178c170.png",
+      "benefits": [
+        "Enhances meditation practice",
+        "Helps count mantras",
+        "Traditional 108 beads",
+        "Beautiful spiritual tool"
+      ],
+      "inStock": 1
+    }
+  ]
+}

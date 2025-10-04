@@ -1,37 +1,38 @@
-import { type User, type InsertUser } from "@shared/schema";
-import { randomUUID } from "crypto";
-
-// modify the interface with any CRUD methods
-// you might need
+import { type Product } from "@shared/schema";
+import { readFileSync } from "fs";
+import { join } from "path";
 
 export interface IStorage {
-  getUser(id: string): Promise<User | undefined>;
-  getUserByUsername(username: string): Promise<User | undefined>;
-  createUser(user: InsertUser): Promise<User>;
+  getAllProducts(): Promise<Product[]>;
+  getProductById(id: string): Promise<Product | undefined>;
 }
 
 export class MemStorage implements IStorage {
-  private users: Map<string, User>;
+  private products: Product[];
 
   constructor() {
-    this.users = new Map();
+    this.products = [];
+    this.loadProducts();
   }
 
-  async getUser(id: string): Promise<User | undefined> {
-    return this.users.get(id);
+  private loadProducts() {
+    try {
+      const dataPath = join(process.cwd(), "server", "data.json");
+      const data = readFileSync(dataPath, "utf-8");
+      const jsonData = JSON.parse(data);
+      this.products = jsonData.products;
+    } catch (error) {
+      console.error("Error loading products:", error);
+      this.products = [];
+    }
   }
 
-  async getUserByUsername(username: string): Promise<User | undefined> {
-    return Array.from(this.users.values()).find(
-      (user) => user.username === username,
-    );
+  async getAllProducts(): Promise<Product[]> {
+    return this.products;
   }
 
-  async createUser(insertUser: InsertUser): Promise<User> {
-    const id = randomUUID();
-    const user: User = { ...insertUser, id };
-    this.users.set(id, user);
-    return user;
+  async getProductById(id: string): Promise<Product | undefined> {
+    return this.products.find((product) => product.id === id);
   }
 }
 
