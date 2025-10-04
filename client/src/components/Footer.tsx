@@ -22,23 +22,23 @@ export function Footer() {
             <h3 className="font-serif text-lg font-semibold mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="/" data-testid="link-footer-home">
-                  <a className="text-sm text-muted-foreground hover:text-foreground transition-colors">Home</a>
+                <Link href="/">
+                  <span className="text-sm text-muted-foreground hover:text-foreground transition-colors cursor-pointer" data-testid="link-footer-home">Home</span>
                 </Link>
               </li>
               <li>
-                <Link href="/products" data-testid="link-footer-products">
-                  <a className="text-sm text-muted-foreground hover:text-foreground transition-colors">Products</a>
+                <Link href="/products">
+                  <span className="text-sm text-muted-foreground hover:text-foreground transition-colors cursor-pointer" data-testid="link-footer-products">Products</span>
                 </Link>
               </li>
               <li>
-                <Link href="/services" data-testid="link-footer-services">
-                  <a className="text-sm text-muted-foreground hover:text-foreground transition-colors">Services</a>
+                <Link href="/services">
+                  <span className="text-sm text-muted-foreground hover:text-foreground transition-colors cursor-pointer" data-testid="link-footer-services">Services</span>
                 </Link>
               </li>
               <li>
-                <Link href="/about" data-testid="link-footer-about">
-                  <a className="text-sm text-muted-foreground hover:text-foreground transition-colors">About Us</a>
+                <Link href="/about">
+                  <span className="text-sm text-muted-foreground hover:text-foreground transition-colors cursor-pointer" data-testid="link-footer-about">About Us</span>
                 </Link>
               </li>
             </ul>
